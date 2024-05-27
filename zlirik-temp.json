@@ -1,0 +1,24 @@
+[{
+    "id_singer": "28",
+    "singer_name": "Taylor Swift",
+    "country": "USA",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Swift%2C_Taylor_%282007%29.jpg/520px-Swift%2C_Taylor_%282007%29.jpg",
+    "songs": []},
+    {
+        "id_singer": "29",
+        "singer_name": "The Rolling Stones",
+        "country": "USA",
+        "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg/553px-The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg",
+        "songs": []},
+        {
+            "id_singer": "30",
+            "singer_name": "Laufey",
+            "country": "USA",
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Laufey_Lin.jpg/410px-Laufey_Lin.jpg",
+            "songs": []},
+            {
+                "id_singer": "31",
+                "singer_name": "Foo Fighters",
+                "country": "USA",
+                "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Foo_Fighters_2009.jpg/440px-Foo_Fighters_2009.jpg",
+                "songs": []}]
